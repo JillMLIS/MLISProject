@@ -1,2 +1,2 @@
 # MLISProject
-GroupProect
+GroupProject
